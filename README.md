@@ -278,19 +278,6 @@ CMD ["uvicorn", "api.app:app", "--host", "0.0.0.0", "--port", "8000"]
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- HuggingFace for the excellent transformers library
-- OpenAI for the GPT models
-- FastAPI for the modern web framework
-- The open-source community for various dependencies
-
-## 📞 Support
-
-- **Issues**: Create an issue on GitHub
-- **Discussions**: Use GitHub Discussions
-- **Email**: Contact the maintainers
-
 ---
 
 **Made with ❤️ for the AI community** 
